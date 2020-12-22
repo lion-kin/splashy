@@ -1,0 +1,6 @@
+{
+    "prefix": "BOT PREFIX",
+    "token": "BOT TOKEN",
+    "ownerID": "YOUR ID",
+    "Interval":1000
+}
